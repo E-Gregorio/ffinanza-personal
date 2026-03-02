@@ -8,8 +8,8 @@
       {"id":3,"date":"2026-03-01","desc":"Expensas","amount":165000,"type":"expense","cat":"Vivienda"},
       {"id":4,"date":"2026-03-01","desc":"Luz","amount":39000,"type":"expense","cat":"Servicios"},
       {"id":5,"date":"2026-03-01","desc":"Internet","amount":35000,"type":"expense","cat":"Servicios"},
-      {"id":6,"date":"2026-03-01","desc":"Visa Gold BNA","amount":105685,"type":"expense","cat":"Tarjetas"},
-      {"id":7,"date":"2026-03-01","desc":"Mastercard BNA","amount":125298,"type":"expense","cat":"Tarjetas"},
+      {"id":6,"date":"2026-03-01","desc":"Visa Gold BNA","amount":149159,"type":"expense","cat":"Tarjetas"},
+      {"id":7,"date":"2026-03-01","desc":"Mastercard BNA","amount":270630,"type":"expense","cat":"Tarjetas"},
       {"id":8,"date":"2026-03-01","desc":"Prestamo Banco Galicia","amount":246000,"type":"expense","cat":"Prestamos"}
     ],
     "budgets": [
@@ -21,7 +21,8 @@
     ],
     "debts": [
       {"id":1,"name":"Visa Gold BNA","total":507559,"paid":0,"monthly":149159},
-      {"id":2,"name":"Mastercard BNA","total":601832,"paid":0,"monthly":270630}
+      {"id":2,"name":"Mastercard BNA","total":601832,"paid":0,"monthly":270630},
+      {"id":3,"name":"Prestamo Banco Galicia","total":246000,"paid":0,"monthly":246000}
     ],
     "goals": []
   }
